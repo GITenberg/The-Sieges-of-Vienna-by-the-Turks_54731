@@ -1,16 +1,21 @@
 _repo: The-Sieges-of-Vienna-by-the-Turks_54731
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ellesmere, The Earl of
     gutenberg_agent_id: '48019'
     url: http://www.gutenberg.org/2009/agents/48019
+covers:
+- cover_type: archival
+  image_path: 54731-h/images/cover.jpg
 creator:
   author:
     agent_name: Schimmer, Karl August
     gutenberg_agent_id: '48018'
     url: http://www.gutenberg.org/2009/agents/48018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54731#The-Sieges-of-Vienna-by-the-Turks
 gutenberg_issued: '2017-05-16'
 gutenberg_type: Text
 identifiers:
