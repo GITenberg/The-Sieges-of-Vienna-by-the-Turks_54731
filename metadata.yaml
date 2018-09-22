@@ -1,0 +1,25 @@
+_repo: The-Sieges-of-Vienna-by-the-Turks_54731
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ellesmere, The Earl of
+    gutenberg_agent_id: '48019'
+    url: http://www.gutenberg.org/2009/agents/48019
+creator:
+  author:
+    agent_name: Schimmer, Karl August
+    gutenberg_agent_id: '48018'
+    url: http://www.gutenberg.org/2009/agents/48018
+description: ''
+gutenberg_issued: '2017-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sieges of Vienna by the Turks
+url: http://www.gutenberg.org/ebooks/54731
